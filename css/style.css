@@ -10,7 +10,9 @@
     font-weight: ;
     color: #;
 } */
-
+body {
+    margin: 10px;
+}
 a {
     text-decoration: none;
     color: inherit;
